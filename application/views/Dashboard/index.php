@@ -83,7 +83,7 @@
                 <div class="row header-section">
                     <div>
                         <center><img src="<?= base_url('assets/img/logo.png'); ?>" alt="Logo">
-                            <h1><b>SISTEM SETORAN HAFALAN QUR'AN</b></h1>
+                            <h1><b>SISTEM SETORAN HAFALAN QUR'AN test</b></h1>
                             <h2>PESANTREN MODERN DAAR AL-ULUUM ASAHAN</h2>
                         </center>
                     </div>
